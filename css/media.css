@@ -1,0 +1,325 @@
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+/*header*/
+	header{
+		padding: 0;
+	}
+	.logo{
+		width: 190px;
+	}
+	.menu ul li a{
+		margin-bottom: 5px;
+		padding: 0 10px !important;
+	}
+	.btn_sign{
+		margin-left: 5px;
+	}
+/*banner*/
+	.banner{
+		padding: 10px 0 60px;
+	}
+	.b_content{
+		text-align: center;
+	}
+	.b_h1{
+		padding: 0;
+		font-size: 30px;
+		line-height: 45px;
+	}
+	.b_p2{
+		padding: 0;
+		line-height: 30px;
+	}
+	.b_img{
+		margin-bottom: 30px;
+		padding: 0;
+	}
+/*feature*/
+	.feature{
+		padding: 0 0 60px;
+	}
+	.f_item{
+		margin: 35px 0 0;
+		padding: 45px 0 40px;
+	}
+	.f_img{
+		width: 65px;
+		height: 70px;
+	}
+	.f_h2{
+		font-size: 20px;
+		line-height: 30px;
+	}	 
+/*course*/
+
+.courses {
+        padding: 0 0 60px;
+    }
+    .course_item {
+        margin-top: 30px;
+        padding: 20px 15px 25px;
+    }
+    .c_h1 {
+        font-size: 30px;
+    }
+    .c_h2 {
+        padding: 10px 0 5px;
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .btn_course {
+        margin: 20px 0;
+    }
+    .card_footer_t {
+        font-size: 15px;
+    }
+    .calendar_icon {
+        width: 16px;
+    }
+
+/*testimonial*/
+	.testimonial{
+		padding: 10px 0 60px;
+	}	
+	.t_item{
+		margin-top: 30px;
+		text-align: center;
+	}
+	.t_img{
+		padding: 0 60px 10px;
+	}	
+
+/*footet top*/
+	.ft{
+		padding: 55px 0 20px;
+		text-align: center;
+	}
+	.ft_details{
+		margin-bottom: 35px;
+		padding-right: 0;
+	}
+	.ft_links{
+		margin-bottom: 35px;
+	}
+
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+/*header*/
+	header{
+		padding: 0;
+	}
+	.logo{
+		width: 190px;
+	}
+	.menu ul li a{
+		margin-bottom: 5px;
+		padding: 0 10px !important;
+	}
+	.btn_sign{
+		margin-left: 5px;
+	}
+/*banner*/
+	.banner{
+		padding: 10px 0 60px;
+	}
+	.b_content{
+		text-align: center;
+	}
+	.b_h1{
+		padding: 0 70px;
+		font-size: 40px;
+		line-height: 55px;
+	}
+	.b_p2{
+		padding: 0 30px;
+		line-height: 30px;
+	}
+	.b_img{
+		margin-bottom: 30px;
+		padding: 0 50px;
+	} 
+/*feature*/
+	.feature{
+		padding: 0 0 60px;
+	}
+	.f_item{
+		margin: 35px 0 0;
+		padding: 45px 0 40px;
+	}
+	.f_img{
+		width: 65px;
+		height: 70px;
+	}
+	.f_h2{
+		font-size: 20px;
+		line-height: 30px;
+	}
+/*course*/
+
+.courses {
+        padding: 0 80px 60px;
+    }
+    .course_item {
+        margin-top: 30px;
+        padding: 20px 15px 25px;
+    }
+    .c_h1 {
+        font-size: 30px;
+    }
+    .c_h2 {
+        padding: 10px 0 5px;
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .btn_course {
+        margin: 20px 0;
+    }
+    .card_footer_t {
+        font-size: 15px;
+    }
+    .calendar_icon {
+        width: 16px;
+    }
+
+/*testimonial*/
+	.testimonial{
+		padding: 10px 0 60px;
+	}	
+	.t_item{
+		margin-top: 30px;
+		text-align: center;
+	}
+	.t_img{
+		padding: 0 130px 10px;
+	}	
+
+/*footet top*/
+	.ft{
+		text-align: center;
+	}
+	.ft_details{
+		margin-bottom: 35px;
+		padding-right: 70px;
+		padding-left: 70px;
+	}
+
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+/*header*/
+	header{
+		padding: 0;
+	}
+	.menu ul li a{
+		margin-bottom: 5px;
+		padding: 0 10px !important;
+	}
+	.btn_sign{
+		margin-left: 5px;
+	}
+/*banner*/
+	.b_content{
+		text-align: center;
+	}
+	.b_h1{
+		padding: 0 100px;
+	}
+	.b_p2{
+		padding: 0 60px;
+	}
+	.b_img{
+		margin-bottom: 30px;
+		padding: 0 70px;
+	}
+/*feature*/
+	.feature{
+		padding: 0 0 80px;
+	}
+/*course*/
+
+.courses {
+        padding: 0 150px 80px;
+    }
+    .course_item {
+        margin-top: 50px;
+    }
+    .card_footer_t {
+        font-size: 15px;
+    }
+    .calendar_icon {
+        width: 16px;
+    }
+
+/*testimonial*/
+	.testimonial{
+		padding: 10px 0 80px;
+	}
+	.t_item{
+		margin-top: 40px;
+	}
+/*footet top*/
+	.ft{
+		text-align: center;
+	}
+	.ft_details{
+		margin-bottom: 35px;
+		padding-right: 80px;
+		padding-left: 80px;
+	}
+
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+/*feature*/
+	.f_h2{
+		font-size: 20px;
+	}
+
+/*courses*/
+.course_item {
+        padding: 15px 13px 20px;
+        border-radius: 10px;
+    }
+    .card_footer_t {
+        font-size: 15px;
+    }
+    .calendar_icon {
+        width: 16px;
+    }
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+
+}
+
+/*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+/*banner*/
+	.b_h1{
+		padding-right: 110px;
+	}
+	.b_p2{
+		padding-right: 100px;
+	}
+/*footer top*/
+	.ft_details{
+		padding-right: 130px;
+	}
+
+}
